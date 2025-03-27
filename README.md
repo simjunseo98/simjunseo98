@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=👋%20Thank%20you%20for%20visiting.%20Im%20SimJunSeo&fontSize=32&fontColor=bfc0c9" />
-![Image](https://github.com/user-attachments/assets/c783b99b-d0b7-471e-a32d-39bc36a8c88f)
+<!--![Image](https://github.com/user-attachments/assets/c783b99b-d0b7-471e-a32d-39bc36a8c88f)-->
 
 <div align="center">
 <p>
